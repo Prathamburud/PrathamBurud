@@ -40,6 +40,6 @@ To become a skilled Software Engineer and build practical, scalable, and impactf
 
 ## 🔗 Connect with Me
 
-* **LinkedIn:** [https://linkedin.com/in/PrathamBurud](https://www.linkedin.com/in/pratham-burud-600478292/)
+* **LinkedIn:** [https://linkedin.com/in/PrathamBurud](https://www.linkedin.com/in/Prathamburud)
 * **GitHub:** [https://github.com/PrathamBurud](https://github.com/PrathamBurud)
   
