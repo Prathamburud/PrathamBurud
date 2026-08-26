@@ -1,8 +1,8 @@
 # Hi, I'm Pratham 👋
 
-🎓 Computer Science Student (2023–2027)
-💡 Focused on Full-Stack Web Development, AI, and Computer Vision
-💻 Strong in Python, Web Technologies & Modern UI Design
+- 🎓 Computer Science Student (2023–2027)
+- 💡 Focused on Full-Stack Web Development, AI, and Computer Vision
+- 💻 Strong in Python, Web Technologies & Modern UI Design
 
 ---
 
@@ -16,8 +16,8 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python (DSA, AI), JavaScript, C, SQL
-- **Web & Backend:** HTML, CSS, JavaScript, Flask, REST APIs
+- **Languages:** Python, JavaScript, Java (Basic)
+- **Web & Backend:** HTML, CSS, JavaScript, React, Bootstrap, Flask
 - **AI & Libraries:** Computer Vision APIs, Pillow (PIL), WebRTC
 - **Database:** SQL, SQLite
 - **Tools:** Git, GitHub, VS Code
