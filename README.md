@@ -1,44 +1,45 @@
 # Hi, I'm Pratham 👋
 
-- 🎓 Computer Science Student (2023–2027)
-- 💡 Focused on Full-Stack Web Development, AI, and Computer Vision
-- 💻 Strong in Python, Web Technologies & Modern UI Design
+- 🎓 Computer Science Engineering Student
+- 💻 Focused on Software Development and Problem Solving
+- 📊 Interested in Web Development and Data Analysis
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- Strong foundation in Python programming and problem solving
-- Building real-world Full-Stack and AI Vision web applications
-- Passionate about creating clean, interactive, and responsive user experiences
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Python, JavaScript, Java (Basic)
-- **Web & Backend:** HTML, CSS, JavaScript, React, Bootstrap, Flask
-- **AI & Libraries:** Computer Vision APIs, Pillow (PIL), WebRTC
-- **Database:** SQL, SQLite
-- **Tools:** Git, GitHub, VS Code
+* Strong foundation in Python, JavaScript, SQL, and Web Technologies
+* Building practical projects to solve real-world problems
+* Continuously improving my programming and problem-solving skills
 
 ---
 
-### 📌 Current Focus
+## 🛠️ Tech Stack
 
-- Building and deploying intelligent AI web applications
-- Practicing Data Structures & Algorithms regularly
-- Exploring scalable backend systems and modern web frameworks
-
----
-
-### 🎯 Goal
-
-To become a skilled Full-Stack & AI Engineer and build scalable, real-world intelligent applications.
+* **Languages:** Python, JavaScript
+* **Web:** HTML, CSS, JavaScript,React
+* **Data:** Pandas, NumPy, Matplotlib,Seaborn
+* **Database:** SQL
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
-### 🔗 Connect with Me
+## 📌 Current Focus
 
-- **LinkedIn:** [https://linkedin.com/in/prathamburud](https://www.linkedin.com/in/pratham-burud-600478292/)
-- **GitHub:** [https://github.com/prathamburud](https://github.com/PrathamBurud)
+* Strengthening Python and JavaScript skills
+* Practicing Data Structures and Algorithms
+* Building real-world software and data analysis projects
+
+---
+
+## 🎯 Goal
+
+To become a skilled Software Engineer and build practical, scalable, and impactful solutions.
+
+---
+
+## 🔗 Connect with Me
+
+* **LinkedIn:** [[https://linkedin.com/PrathamBurud]](https://www.linkedin.com/in/pratham-burud-600478292/)
+* **GitHub:** [[https://github.com/PrathamBurud]](https://github.com/PrathamBurud)
+  
