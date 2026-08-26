@@ -40,5 +40,5 @@ To become a skilled Full-Stack & AI Engineer and build scalable, real-world inte
 
 ### 🔗 Connect with Me
 
-- **LinkedIn:** https://linkedin.com/in/prathamburud
-- **GitHub:** https://github.com/prathamburud09-design
+- **LinkedIn:** [https://linkedin.com/in/prathamburud](https://www.linkedin.com/in/pratham-burud-600478292/)
+- **GitHub:** [https://github.com/prathamburud](https://github.com/PrathamBurud)
