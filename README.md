@@ -1,6 +1,6 @@
 # Hi, I'm Pratham 👋
 
-- 🎓 Computer Science Engineering Student
+- 🎓 Computer Science Engineering Student (2023-2027)
 - 💻 Focused on Software Development and Problem Solving
 - 📊 Interested in Web Development and Data Analysis
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript
+* **Languages:** Python, JavaScript,Java(Basic)
 * **Web:** HTML, CSS, JavaScript,React
 * **Data:** Pandas, NumPy, Matplotlib,Seaborn
 * **Database:** SQL
